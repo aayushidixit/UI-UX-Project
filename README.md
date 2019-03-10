@@ -1,5 +1,5 @@
 # UI/UX Graphical Design Project
 
-College Parking System Portal: 
+College Parking System Portal: https://github.com/aayushidixit/UI-UX-Project/blob/master/Aayushi_College_Parking_System.pdf
 
 Payment App for Elderly Users: 
